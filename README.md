@@ -1,4 +1,6 @@
-# connect-dht11-to-firebasemembaca suhu menggunakan sensor dht11 dan memasukkan datanya ke firebase
+# connect-dht11-to-firebase
+
+membaca suhu menggunakan sensor dht11 dan memasukkan datanya ke firebase
 
 alat yang digunakan:
 
